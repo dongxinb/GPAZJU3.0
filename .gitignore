@@ -1,7 +1,4 @@
-Catch.xcodeproj/project.xcworkspace/xcuserdata
-Catch.xcodeproj/xcuserdata
-Catch.xcworkspace/xcuserdata
-Pods/Pods.xcodeproj/xcuserdata/desolate.xcuserdatad
+Pods/
 build/
 *.pbxuser
 !default.pbxuser
@@ -18,5 +15,4 @@ DerivedData
 *.hmap
 *.ipa
 *.xcuserstate
-Catch/Vender/Reveal.framework
 .idea
